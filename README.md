@@ -5,7 +5,7 @@ I also sometimes compete on Kaggle when I find the time.
   
 This GitHub profile will mainly showcase student or personal projects ✨
 
-<h2 margin-bottom="0px"> I really enjoy listening to music 🎵 </h2>
+## I really enjoy listening to music 🎵 
 
 &nbsp;<div align="center">
 What I'm currently playing on Spotify <img src="./assets/spotify.svg" width="15">  
