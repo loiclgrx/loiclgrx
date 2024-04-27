@@ -5,10 +5,12 @@ I also sometimes compete on Kaggle when I find the time.
   
 This GitHub profile will mainly showcase student or personal projects ✨
 
-## I really enjoy listening to music 🎵
+<h2 margin-bottom="0px"> I really enjoy listening to music 🎵 </h2>
 
 &nbsp;<div align="center">
-  [![Spotify](https://loiclgrxreadme-git-main-loiclgrxs-projects.vercel.app/api/spotify?background_color=0d1117&border_color=ffffff)](https://open.spotify.com/user/31577jvu3ws3qi5fgtzjqnf6vhdu)
+What I'm currently playing on <img src="./assets/spotify.svg" width="55">  
+  
+[![Spotify](https://loiclgrxreadme-git-main-loiclgrxs-projects.vercel.app/api/spotify?background_color=0d1117&border_color=ffffff)](https://open.spotify.com/user/31577jvu3ws3qi5fgtzjqnf6vhdu)
 </div>
 
 ## Languages and tools 🛠️
