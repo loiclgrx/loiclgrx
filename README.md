@@ -7,4 +7,8 @@ This GitHub profile will mainly showcase student or personal projects ✨
 
 ## I really enjoy listening to music 🎵
 
+&nbsp;<div align="center">
+  [![Spotify](https://loiclgrxreadme-git-main-loiclgrxs-projects.vercel.app/api/spotify?background_color=0d1117&border_color=ffffff)](https://open.spotify.com/user/31577jvu3ws3qi5fgtzjqnf6vhdu)
+</div>
+
 ## Languages and tools 🛠️
