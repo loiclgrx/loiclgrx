@@ -25,4 +25,3 @@ What I'm currently playing on Spotify <img src="./assets/spotify.svg" width="15"
 <a href="https://www.docker.com/" target="_blank"> <img align="left" src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/docker/docker.svg" alt="docker" height="50px"/> </a> 
 <a href="https://azure.microsoft.com/" target="_blank"> <img align="left" src="assets/azure.svg" alt="azure" height="50px"/> </a> 
 <a href="https://www.linux.org/" target="_blank"> <img align="left" src="assets/linux.svg" alt="linux" height="50px"/> </a> 
-<a href="https://en.wikipedia.org/wiki/Bash_(Unix_shell)/" target="_blank"> <img align="left" src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/bash/bash.svg" alt="bash" height="50px"/> </a> 
