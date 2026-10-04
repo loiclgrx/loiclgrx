@@ -1,9 +1,9 @@
 # Bonjour! I'm Loïc Legroux 👋
 
-Hello, I'm a young data science engineer from France. I've always been interested by new technologies and decided to work in AI after finding about how interesting that field is!
+Hello, I'm a young software engineer from France. I've always been interested by new technologies and decided to work in AI after finding about how interesting that field is!
 I also sometimes compete on Kaggle when I find the time therefore some of my work can be found here.  
   
-This GitHub profile will mainly showcase student or personal projects ✨
+This GitHub profile will mainly showcase student or personal projects
 
 ## I really enjoy listening to music 🎵 
 
